@@ -1,4 +1,4 @@
-Juego Adivinador
+Juego Adivina el Número
 
 - Instrucciones del juego: 
 Cuando inicia el juego, la aplicación piensa un número del 1 al 100. Hay un campo de texto donde el jugador ingresa su intento. 
